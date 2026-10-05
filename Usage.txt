@@ -1,0 +1,2 @@
+To compile: kindle-gcc hello.c -o hello
+You Have Succesfully Installed the C Compiler!
