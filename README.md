@@ -1,2 +1,2 @@
 # KindleCode
-A compilation of programming languages For kindle
+A compilation of programming languages and Hacks For Kindles
